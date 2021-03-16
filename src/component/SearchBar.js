@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
         marginHorizontal: 15,
         borderRadius:5,
         flexDirection: 'row',
+        marginBottom:10,
     },
     inputStyle:{
        fontSize: 18,
